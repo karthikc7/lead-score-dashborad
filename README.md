@@ -150,6 +150,9 @@ npm run build
 npm run lint
 ```
 
+
+Use this Model here : https://eclectic-rolypoly-952da8.netlify.app/ or http://localhost:5173/
+
 ## 📄 License
 
 This project is built for demonstration purposes as part of the AI Lead Scoring Dashboard challenge.
