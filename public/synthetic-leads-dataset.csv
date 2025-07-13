@@ -1,0 +1,11 @@
+email,phoneNumber,creditScore,ageGroup,familyBackground,income,employmentStatus,region,propertyType,budgetRange,previousInquiries,timeOnSite,pageViews,downloadedBrochure,attendedWebinar,intent
+user1@example.com,+91-1234567890,720,26-35,Married,580000,Employed - Full Time,Mumbai,Apartment,50L-1Cr,3,1250,15,true,false,78
+user2@example.com,+91-2345678901,650,36-50,Married with Kids,920000,Self Employed,Delhi,Villa,1Cr-2Cr,7,2100,25,true,true,89
+user3@example.com,+91-3456789012,580,18-25,Single,280000,Student,Bangalore,Apartment,Below 50L,1,450,8,false,false,35
+user4@example.com,+91-4567890123,780,36-50,Married with Kids,1200000,Employed - Full Time,Chennai,Villa,2Cr+,9,3200,42,true,true,95
+user5@example.com,+91-5678901234,620,26-35,Single,450000,Employed - Part Time,Kolkata,Plot,50L-1Cr,2,890,12,false,false,52
+user6@example.com,+91-6789012345,510,51+,Married,320000,Retired,Pune,Apartment,Below 50L,0,230,5,false,false,28
+user7@example.com,+91-7890123456,750,26-35,Married,680000,Self Employed,Hyderabad,Commercial,1Cr-2Cr,5,1800,22,true,false,82
+user8@example.com,+91-8901234567,690,36-50,Married with Kids,890000,Employed - Full Time,Ahmedabad,Villa,1Cr-2Cr,6,2500,35,true,true,88
+user9@example.com,+91-9012345678,430,18-25,Single,150000,Unemployed,Mumbai,Apartment,Below 50L,0,120,3,false,false,15
+user10@example.com,+91-0123456789,810,51+,Married with Kids,750000,Self Employed,Delhi,Plot,1Cr-2Cr,8,2800,38,true,true,91
